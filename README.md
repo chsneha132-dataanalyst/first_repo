@@ -1,2 +1,4 @@
 # first_repo
-First class of Git.
+This repo was created for First class of Git.
+This is new line added,Thank You!
+Making changes in repo
